@@ -1,0 +1,1 @@
+Image with Curl and Newman installed for the purpose of running pings and postman tests from HELM Test Container.
